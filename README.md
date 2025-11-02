@@ -2,7 +2,7 @@
 
  **Data Scientist | Machine Learning Engineer | Passionate about Responsible AI/data**
 
-I’m a Data Scientist with experience in **machine learning, data engineering, and analytics**, driven by a curiosity for **efficient, ethic and sustainable AI**.  
+I’m a Data Scientist with experience in **machine learning, data engineering, and analytics**, driven by a curiosity for **efficient, responsable and sustainable AI**.  
 
 ---
 
@@ -46,7 +46,7 @@ I’m a Data Scientist with experience in **machine learning, data engineering, 
 ➡ Created interactive dashboards and automated reporting pipelines in Python & Power BI.  
 
 **Freelance Projects**  
-➡ Built AI-powered analytics tools and data architectures with a focus on sustainable computation.  
+➡ Built AI-powered analytics tools and data architectures with a focus on sustainable/responsible computation.  
 
 ---
 
