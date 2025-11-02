@@ -31,10 +31,9 @@ I’m a Data Scientist with experience in **machine learning, data engineering, 
 
 ##  Current Projects
 
--  **Frugal AI Hackathon** – Designing low-resource ML models to reduce energy and compute footprint  
--  **Pricing Optimization** – Building demand forecasting and pricing recommendation models  
--  **Data Pipeline Optimization** – Developing robust ETL workflows on GCP with BigQuery & Airflow  
-
+-  **Frugal AI Hackathon** 
+-  **Pricing Optimization** 
+-  **Data Pipeline Optimization** 
 ---
 
 ##  Experience
