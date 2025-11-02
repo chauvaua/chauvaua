@@ -18,7 +18,7 @@ I’m a Data Scientist with experience in **machine learning, data engineering, 
 
 ---
 
-## Tech Stack
+## Some Tech Stack
 
 | Domain | Tools & Frameworks |
 |--------|--------------------|
@@ -42,7 +42,7 @@ I’m a Data Scientist with experience in **machine learning, data engineering, 
 ➡ Developed and deployed predictive models for demand forecasting and process optimization.  
 
 **Hermès – Data Analyst Engineer**  
-➡ Created interactive dashboards and automated reporting pipelines in Python & Power BI.  
+➡ Created interactive dashboards Power BI and cleaning datasets.  
 
 **Freelance Projects**  
 ➡ Built AI-powered analytics tools and data architectures with a focus on sustainable/responsible computation.  
