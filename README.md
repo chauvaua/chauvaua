@@ -1,4 +1,4 @@
-# Hi, I'm Anath
+# Hi, I'm Anath :)
 
  **Data Scientist | Machine Learning Engineer | Passionate about Responsible AI/data**
 
@@ -56,5 +56,3 @@ I’m a Data Scientist with experience in **machine learning, data engineering, 
 💼 [LinkedIn : https://www.linkedin.com/in/anath-chauvaud](https://www.linkedin.com/in/anath-chauvaud-783027364/)  
 
 ---
-
-✨ *“Build smart, lean, and meaningful AI.”*
