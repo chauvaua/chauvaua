@@ -54,7 +54,7 @@ I’m a Data Scientist with experience in **machine learning, data engineering, 
 
 📍 Based in Lyon, France  
 ✉️ [anath.chauvaud@gmail.com](mailto:anath.chauvaud@hotmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/anathchauvaud)  
+💼 [LinkedIn](https://www.linkedin.com/in/anath-chauvaud-783027364/)  
 
 ---
 
