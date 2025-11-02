@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Anath Chauvaud
 
-<!--
-**chauvaua/chauvaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Scientist | Machine Learning Engineer | Passionate about Responsible AI/data**
 
-Here are some ideas to get you started:
+I’m a Data Scientist with experience in **machine learning, data engineering, and analytics**, driven by a curiosity for **efficient and sustainable AI**.  
+My goal is to bridge **technical excellence** and **business impact** through data-driven innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💡 Experienced in **end-to-end ML pipelines**: from data collection to model deployment  
+- 🧠 Currently working on projects related to **Frugal AI** and efficient data architectures  
+- ☁️ Skilled in **Python, SQL, Julia and R**  
+- 📊 Strong experience in **data visualization** (Power BI, Streamlit)  
+- 🧩 Cloud: **AWS, OVHCloude**  
+- 🤝 Excellent communicator, connecting tech and business teams  
+- 🌱 Always learning — currently exploring **LLMs** and **MLOps practices**
+
+---
+
+## 🧩 Tech Stack
+
+| Domain | Tools & Frameworks |
+|--------|--------------------|
+| **Languages** | Python, SQL, R, Bash |
+| **ML / AI** | Scikit-learn, TensorFlow, Hugging Face |
+| **Visualization** | Power BI, Plotly, Streamlit |
+| **Versioning / DevOps** | Git, Docker, CI/CD |
+
+---
+
+## 🔬 Current Projects
+
+- 🧠 **Frugal AI Hackathon** – Designing low-resource ML models to reduce energy and compute footprint  
+- 📈 **Pricing Optimization** – Building demand forecasting and pricing recommendation models  
+- ☁️ **Data Pipeline Optimization** – Developing robust ETL workflows on GCP with BigQuery & Airflow  
+
+---
+
+## 💼 Experience
+
+**Sanofi – Data Scientist**  
+➡ Developed and deployed predictive models for demand forecasting and process optimization.  
+
+**Hermès – Data Analyst Engineer**  
+➡ Created interactive dashboards and automated reporting pipelines in Python & Power BI.  
+
+**Freelance Projects**  
+➡ Built AI-powered analytics tools and data architectures with a focus on sustainable computation.  
+
+---
+
+## 📫 Contact
+
+📍 Based in Paris, France  
+✉️ [anath.chauvaud@gmail.com](mailto:anath.chauvaud@hotmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/anathchauvaud)  
+
+---
+
+✨ *“Build smart, lean, and meaningful AI.”*
