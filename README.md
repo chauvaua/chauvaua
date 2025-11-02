@@ -2,8 +2,7 @@
 
  **Data Scientist | Machine Learning Engineer | Passionate about Responsible AI/data**
 
-I’m a Data Scientist with experience in **machine learning, data engineering, and analytics**, driven by a curiosity for **efficient and sustainable AI**.  
-My goal is to bridge **technical excellence** and **business impact** through data-driven innovation.
+I’m a Data Scientist with experience in **machine learning, data engineering, and analytics**, driven by a curiosity for **efficient, ethic and sustainable AI**.  
 
 ---
 
