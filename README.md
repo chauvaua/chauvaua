@@ -1,4 +1,4 @@
-# Hi, I'm Anath Chauvaud
+# Hi, I'm Anath
 
  **Data Scientist | Machine Learning Engineer | Passionate about Responsible AI/data**
 
