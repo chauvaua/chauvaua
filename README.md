@@ -39,7 +39,7 @@ I’m a Data Scientist with experience in **machine learning, data engineering, 
 ##  Experience
 
 **Sanofi – Data Scientist**  
-➡ Developed and deployed predictive models for demand forecasting and process optimization.  
+➡ Developed and deployed data projects for demand.  
 
 **Hermès – Data Analyst Engineer**  
 ➡ Created interactive dashboards Power BI and cleaning datasets.  
@@ -47,6 +47,7 @@ I’m a Data Scientist with experience in **machine learning, data engineering, 
 **Freelance Projects**  
 ➡ Built AI-powered analytics tools and data architectures with a focus on sustainable/responsible computation.  
 
+My github account is under construction: please excuse the mess! 🛠️
 ---
 
 ## 📫 Contact
